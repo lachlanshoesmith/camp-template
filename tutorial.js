@@ -1,5 +1,5 @@
 // Assuming you're familiar with Python, here's some code that
-// is the equivalent of what you're used to type in Python.
+// is the equivalent of what you're used to typing in Python.
 
 console.log('Hello, World!') // print('Hello, World!')
 alert('Hello, World!') // puts a popup on the screen
